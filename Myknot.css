@@ -1,0 +1,95 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	/*background-image: linear-gradient(to right, #000000,  #ZP764);*/
+	background-image: linear-gradient(to right, #000000,  #CD5C5C);
+}
+.div1 li
+{	
+	cursor: pointer;
+	list-style-type: none;
+	display: inline-block;
+	padding: 4px;
+	padding-left: 150px;
+	margin-right: -140px;
+}
+.div1 li a
+{
+	color: #fff;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+} 
+.div2 li{
+	cursor: pointer;
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 300px;
+	margin-right: -60px;
+	float: right;
+	margin-top: -20px;
+}
+.div2 li a
+{
+	color: #fff;
+	font-size: 15px;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+img{
+	width: 50px;
+}
+.div3 ul
+{
+	display: inline-flex;
+	float: left;
+	margin-top: -500px;
+	margin-left: 120px;
+}
+.div3 ul li
+{
+	list-style-type: none;
+	padding: 15px 35px;
+}
+.div3 ul li a
+{
+	font-size: 16px;
+	color: #fff;
+	text-decoration: none;
+	font-family:sans-serif;
+}
+.bigimage
+{
+	width: 30%;
+	float: right;
+	padding-right: 200px;
+}
+.div4 {
+	color: #fff;
+	margin: 30px;
+	margin-top:350px;
+}
+h1{
+	font-size: 20px;
+	word-spacing: 10px;
+	font-family: sans-serif;
+	background-color: #fff;
+	color: purple;
+	border: 1px solid #fff;
+	width: 190PX;
+	padding: 5px;
+	margin-bottom: 2px;
+}
+h2{
+	font-size: 20px;
+	word-spacing: 10px;
+	font-family: sans-serif;
+	background-color: #fff;
+	color: purple;
+	border: 1px solid #fff;
+	width: 280PX;
+	padding: 5px;
+	margin-bottom: 5px;
+}
